@@ -222,7 +222,7 @@ theme_conference=主題會議
 theme_development_support=開發支持
 theme_donate=捐贈
 theme_download=下載
-THEME_NAME=Authentic 主題
+theme_name=Authentic 主題
 theme_update=更新
 theme_force_update=強制更新
 theme_update_available=最新的可用版本
@@ -545,7 +545,7 @@ theme_xhred_filemanager_successful_compression_bg_with_errors=壓縮已完成但
 theme_xhred_filemanager_settings_notification_type=通知顯示的類型
 theme_xhred_filemanager_settings_notification_type_inf_warn_err=信息、警告和錯誤
 theme_xhred_filemanager_settings_notification_type_warn_err=警告和錯誤
-只有theme_xhred_filemanager_settings_notification_type_err=錯誤
+theme_xhred_filemanager_settings_notification_type_err=錯誤
 
 theme_xhred_filemanager_settings_tabs_remember_state=在初次進入時載入先前使用過的標籤頁
 theme_xhred_filemanager_context_open_new_tab=在新標籤頁中開啟
